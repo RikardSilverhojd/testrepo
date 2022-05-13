@@ -1,3 +1,0 @@
-detta är en testfil för git
-
-commit 2
